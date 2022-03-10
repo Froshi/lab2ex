@@ -1,0 +1,2 @@
+module gitlab2ex {
+}
